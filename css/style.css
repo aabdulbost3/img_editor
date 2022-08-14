@@ -112,7 +112,7 @@ body{
 .preview-img img {
     max-width: 700px;
     max-height: 335px;
-    width: 350px;
+    width: 100%;
     height: 350px;
 }
 .controls button {
